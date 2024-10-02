@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... olivia.williams@unh.edu
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I was born without a sense of smell
+- ⚡ Fun fact: ... I have a pet _Pleurodeles waltl_
 
 <!---
 omwilliams19/omwilliams19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
